@@ -1,0 +1,428 @@
+Uri: https://encryted-api-f3w.pages.dev/
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\index.htm
+Content Type: text/html
+
+Uri: https://encryted-api-f3w.pages.dev/Choose
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\Choose.html
+Content Type: text/html
+
+Uri: https://encryted-api-f3w.pages.dev/Choose.css
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\Choose.css
+Content Type: text/css
+
+Uri: https://encryted-api-f3w.pages.dev/Home.css
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\Home.css
+Content Type: text/css
+
+Uri: https://encryted-api-f3w.pages.dev/images/1inch.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\1inch.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/9061433-8f02fbf4.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\9061433-8f02fbf4.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/ArtboardCopy6960w.svg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\ArtboardCopy6960w.svg
+Content Type: image/svg+xml
+
+Uri: https://encryted-api-f3w.pages.dev/images/atomic-4c02d2b33cf091fd83c7a49819394e41.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\atomic-4c02d2b33cf091fd83c7a49819394e41.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/atwallet-2611d814a50a964b89d5f8bc1e5cb3a0.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\atwallet-2611d814a50a964b89d5f8bc1e5cb3a0.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/authereum-32f3939207b77c1837547d5ed4f86110.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\authereum-32f3939207b77c1837547d5ed4f86110.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/bifrost.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\bifrost.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/bitkeep-387b0ca7da4cf322f44c70c23064c529.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\bitkeep-387b0ca7da4cf322f44c70c23064c529.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/blockchain.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\blockchain.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/coin98-c5b50adaceaf474e48ef1dad150d0829.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\coin98-c5b50adaceaf474e48ef1dad150d0829.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/coinbase.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\coinbase.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/coinomi-7eecd68e38d78752d68b7232bd9c58d9.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\coinomi-7eecd68e38d78752d68b7232bd9c58d9.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/coolwallet-s-cc612ee7a151c1863293fcc69dd0f677.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\coolwallet-s-cc612ee7a151c1863293fcc69dd0f677.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/crypto-4cbeac57421fb3ca2573db2cf448169a.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\crypto-4cbeac57421fb3ca2573db2cf448169a.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/dohrniiwallet_1.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\dohrniiwallet_1.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/dok-a32c522e109217cc2a1a2a310f3c9bf7.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\dok-a32c522e109217cc2a1a2a310f3c9bf7.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/download.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download1.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download1.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/download1.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download1.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download2.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download2.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/download2.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download2.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download3.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download3.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/download3.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download3.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download4.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download4.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/download4.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download4.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download5.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download5.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/download5.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download5.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/download6.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\download6.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/easypocket-436ea3270a7bf77c02a880bfc70d0ee8.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\easypocket-436ea3270a7bf77c02a880bfc70d0ee8.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/Enjin.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\Enjin.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/exodus.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\exodus.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/Fantom.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\Fantom.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/hashpack.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\hashpack.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/imtoken-fd8c7c52dac6101568954e7448a49202.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\imtoken-fd8c7c52dac6101568954e7448a49202.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/infinito-wallet-68da061495160c96f4bcb5e70e612fdd.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\infinito-wallet-68da061495160c96f4bcb5e70e612fdd.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/infinity-wallet-48e78bc97f96bad14ee6b781423a69ea.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\infinity-wallet-48e78bc97f96bad14ee6b781423a69ea.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/kw.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\kw.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/ledger_wallet.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\ledger_wallet.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/math-wallet-9e2256cfa5aad3b33af05f3fee4dc9ef.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\math-wallet-9e2256cfa5aad3b33af05f3fee4dc9ef.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/meetone-01093db7d99e3e6cf5cca68b616f8255.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\meetone-01093db7d99e3e6cf5cca68b616f8255.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/metamask-69ce6b56bbc9953dfb4aecebdf88729b.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\metamask-69ce6b56bbc9953dfb4aecebdf88729b.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/midas-wallet-5c5057d972ca621414f077541845fc61.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\midas-wallet-5c5057d972ca621414f077541845fc61.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/morixwallet-aa7d607cf9ad52afeb3b7c83e5f34eba.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\morixwallet-aa7d607cf9ad52afeb3b7c83e5f34eba.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/mykey-7419df5270c0406c80cba19fa5165923.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\mykey-7419df5270c0406c80cba19fa5165923.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/nearlogo.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\nearlogo.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/onto-983003d35fe32bf916f9eda381f138f7.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\onto-983003d35fe32bf916f9eda381f138f7.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/ownbit-0b6b21e40acf2fa0f85d2c5ce38c4c51.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\ownbit-0b6b21e40acf2fa0f85d2c5ce38c4c51.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/peakdefi-2e1d4f97cc1a737a9aa765b3748ff315.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\peakdefi-2e1d4f97cc1a737a9aa765b3748ff315.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/polymesh.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\polymesh.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/rainbow-207dda8d66f8ffc00a21e4fcc5ce0a73.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\rainbow-207dda8d66f8ffc00a21e4fcc5ce0a73.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/safepal-1022b40e2ea3a4a6bb19cf6ff28d8b92.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\safepal-1022b40e2ea3a4a6bb19cf6ff28d8b92.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/solana.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\solana.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/solfare.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\solfare.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/Sollet.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\Sollet.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/sparkpoint-5c0d3a4ab850a7ee2a3f03e215b68f2c.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\sparkpoint-5c0d3a4ab850a7ee2a3f03e215b68f2c.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/sqzgmbkggvc1uwgapeuy.webp
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\sqzgmbkggvc1uwgapeuy.webp
+Content Type: image/webp
+
+Uri: https://encryted-api-f3w.pages.dev/images/stargazer.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\stargazer.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/Terra.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\Terra.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/theta_wallet.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\theta_wallet.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/tokenpocket-57a4a886cc644e5237ac1558226154cb.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\tokenpocket-57a4a886cc644e5237ac1558226154cb.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/Tomo.jpg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\Tomo.jpg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/trezor.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\trezor.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/tron.jpeg
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\tron.jpeg
+Content Type: image/jpeg
+
+Uri: https://encryted-api-f3w.pages.dev/images/trust-wallet-66f8777532931d9c09b633344981a6a9.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\trust-wallet-66f8777532931d9c09b633344981a6a9.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/unstoppable-0d3474dcd7572ac2080b0f4ce632dfac.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\unstoppable-0d3474dcd7572ac2080b0f4ce632dfac.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/VechainThor.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\VechainThor.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/viawallet-ae1502eddf4d2ed89abd36907dd3ae8a.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\viawallet-ae1502eddf4d2ed89abd36907dd3ae8a.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/vision-928292fe642172a18e62feb5eaa2d639.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\vision-928292fe642172a18e62feb5eaa2d639.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/wallet.io-198f396de22fe25eb370f46544abe69d.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\wallet.io-198f396de22fe25eb370f46544abe69d.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/walletconnect.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\walletconnect.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/walleth-b60336f8dd9ea86285408cb4f96634d1.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\walleth-b60336f8dd9ea86285408cb4f96634d1.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/xdc-9a98bff95dffc41869b8e77912a6cc54.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\xdc-9a98bff95dffc41869b8e77912a6cc54.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/xverse1.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\xverse1.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/images/zelcore-d4c1a7a444b95612f6373f0b536b6ccb.png
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\images\zelcore-d4c1a7a444b95612f6373f0b536b6ccb.png
+Content Type: image/png
+
+Uri: https://encryted-api-f3w.pages.dev/jquery.js
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\jquery.js
+Content Type: application/javascript
+
+Uri: https://encryted-api-f3w.pages.dev/multipage_support.css
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\multipage_support.css
+Content Type: text/css
+
+Uri: https://encryted-api-f3w.pages.dev/multipage_support.js
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\multipage_support.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\HP\Desktop\WEB3.1\encryted-api-f3w.pages.dev\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
